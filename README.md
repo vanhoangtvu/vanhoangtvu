@@ -1,9 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=👨‍💻+Backend+Developer;🚀+Spring+Boot+Enthusiast;☕+Java+Expert;🏗️+Building+Scalable+APIs;📱+Contact%3A+0889559357" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Nguyễn%20Văn%20Hoàng&fontSize=90&fontAlignY=38&desc=Backend%20Developer%20|%20Spring%20Boot%20Expert&descAlignY=51&descAlign=62"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=👨‍💻+Backend+Developer;🚀+Spring+Boot+Enthusiast;☕+Java+Expert;🏗️+Building+Scalable+APIs;�+Contact%3A+0889559357" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div> am Nguyen Van Hoang
+
+<div align="center">
+  <h2>� Backend Developer | Spring Boot Expert</h2>
+  <h3>☕ Java Developer | 🏗️ Building Scalable APIs</h3>
+  <h4>📱 Contact: 0889559357 | 📧 nguyenhoang4556z@gmail.com</h4>
 </div>
 
 ## 🚀 Về tôi
