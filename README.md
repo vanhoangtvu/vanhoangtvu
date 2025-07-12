@@ -96,52 +96,63 @@ Hey there! I'm **Van Hoang**, a passionate backend developer who loves crafting 
 </p>
 
 ---
-## 📈 GitHub Stats
+## 🤝 Open for Collaboration
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="300">
+</div>
+
+### 💼 What I'm Looking For:
+
+- **🚀 Backend Projects**: Spring Boot, Java applications
+- **🏗️ System Design**: Microservices architecture discussions  
+- **📚 Knowledge Sharing**: Tech talks, mentoring opportunities
+- **🌟 Open Source**: Contributing to meaningful projects
+- **💡 Startup Ideas**: Building innovative solutions
+
+### 📋 How I Can Help:
+
+- ✅ **API Development** with Spring Boot
+- ✅ **Database Design** and optimization
+- ✅ **Code Reviews** and technical consulting
+- ✅ **Architecture Planning** for scalable systems
+- ✅ **Technical Documentation** and best practices
+
+### 📧 Contact Me For:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
+        <br><b>💼 Job Opportunities</b>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
+        <br><b>🤝 Project Collaboration</b>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
+        <br><b>📚 Technical Discussion</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>🎯 "Let's build something amazing together!"</h3>
+  
+  <p>📱 **Quick Contact**: [0889559357](tel:+84889559357) | 📧 [nguyenhoang4556z@gmail.com](mailto:nguyenhoang4556z@gmail.com)</p>
+  
+  <p>💬 **Response Time**: Usually within 24 hours</p>
+</div>
+
 
 
 
 ## 🚧 Dự án nổi bật
 
-### 🏪 E-commerce Microservices Platform
-```
-🔧 Tech: Spring Boot, Spring Cloud, MySQL, Redis, Docker
-📝 Mô tả: Hệ thống microservices cho thương mại điện tử với:
-  - User Service (Authentication & Authorization)
-  - Product Service (Catalog management)
-  - Order Service (Order processing)
-  - Payment Service (Payment gateway integration)
-  - Notification Service (Email/SMS notifications)
-```
 
-### 📚 Library Management System
-```
-🔧 Tech: Spring Boot, Spring Security, PostgreSQL, JPA
-📝 Mô tả: Hệ thống quản lý thư viện với:
-  - RESTful APIs cho quản lý sách và người dùng
-  - JWT authentication
-  - Role-based access control
-  - Advanced search và filtering
-```
-
-### 🌐 Blog API with Spring WebFlux
-```
-🔧 Tech: Spring WebFlux, MongoDB, Redis, Docker
-📝 Mô tả: Reactive REST API cho blog platform:
-  - Non-blocking I/O operations
-  - Real-time comment system
-  - Caching layer với Redis
-  - Dockerized deployment
-```
-
-
-## 🚀 What I'm Working On
-
-- **Backend Development**: Building robust APIs with Spring Boot
-- **Database Optimization**: Improving query performance and database design
-- **Learning Journey**: Exploring microservices and cloud deployment
-- **Personal Projects**: Creating useful applications to solve real-world problems
-
----
 
 ## 📚 Học tập liên tục
 
