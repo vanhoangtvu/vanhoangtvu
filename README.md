@@ -150,31 +150,7 @@ Hey there! I'm **Van Hoang**, a passionate backend developer who loves crafting 
 
 
 
-## 🚧 Dự án nổi bật
 
-
-
-## 📚 Học tập liên tục
-
-```java
-@Service
-public class ContinuousLearningService {
-
-    private List<String> currentlyLearning = Arrays.asList(
-        "Kubernetes advanced concepts",
-        "Event-driven architecture",
-        "Spring Native (GraalVM)",
-        "Apache Kafka",
-        "Domain-Driven Design patterns"
-    );
-
-    public void stayUpToDate() {
-        // Always learning new technologies and best practices
-        // Reading: Spring documentation, Java enhancement proposals
-        // Practicing: Building side projects and contributing to open source
-    }
-}
-```
 
 ## 🎯 Mục tiêu 2025
 
