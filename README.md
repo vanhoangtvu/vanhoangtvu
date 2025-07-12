@@ -1,8 +1,4 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Nguyễn%20Văn%20Hoàng&fontSize=90&fontAlignY=38&desc=Backend%20Developer%20|%20Spring%20Boot%20Expert&descAlignY=51&descAlign=62"/>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=👨‍💻+Backend+Developer;🚀+Spring+Boot+Enthusiast;☕+Java+Expert;🏗️+Building+Scalable+APIs;�+Contact%3A+0889559357" alt="Typing SVG" />
 </div>
 
