@@ -1,7 +1,37 @@
 # 👋 Hi, I'm Nguyen Van Hoang!
 
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Nguyen%20Van%20Hoang&fontSize=70&fontAlignY=38&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20Expert&descAlignY=51&descAlign=62"/>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%26+Java+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+        <br><b>📱 Phone</b><br>
+        <a href="tel:+84889559357">0889559357</a>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+        <br><b>📧 Email</b><br>
+        <a href="mailto:nguyenhoang4556z@gmail.com">nguyenhoang4556z@gmail.com</a>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
+        <br><b>🐙 GitHub</b><br>
+        <a href="https://github.com/vanhoangtvu">@vanhoangtvu</a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
